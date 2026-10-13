@@ -4,6 +4,9 @@ Reproducible exploratory research on recorded heart sounds (PCG), ECG interval v
 
 ## Deliverables
 
+- `paper/ICIIPC2026_Heart_Sound_Variability.pdf` and `.docx`: 10-page conference manuscript in the official ICIIPC 2026 Springer template, with seven tables, five figures and twelve references. Authors supplied by the investigators: Pallab Sarangi, Shreyas Baloni and Pooja R Rao. Corresponding-author details and investigator approval remain outstanding.
+- `paper/manuscript.md`: readable conference manuscript; `paper/manuscript_template.md` is its editable prose source. `paper/README.md` describes regeneration and submission limitations.
+- `extended_analysis.py`: explicitly post-hoc rule comparisons, feature removal and alternative training-only coverage thresholds. Its primary predictions must exactly reproduce the original analysis.
 - `manuscript.md`: empirical paper draft generated from measured results.
 - `literature_review.md`: primary-source literature map, novelty boundaries and query log.
 - `protocol.md`: analysis specification saved before cohort results, with engineering clarifications.
@@ -24,6 +27,9 @@ python -m unittest -v test_analysis
 python analysis.py
 python audit_results.py
 python make_report.py
+python -m unittest -v test_extended_analysis
+python extended_analysis.py
+python paper/make_figures.py
 ```
 
 Download uses the public `physionet-open` AWS mirror for SensSmartTech 1.0.0 and verifies each WFDB file against the release SHA256 manifest. No credentials are needed. Cached files are verified again. Signals occupy approximately 406 MB. Do not replace a versioned release without repeating provenance and analyses. A checksum failure stops execution.

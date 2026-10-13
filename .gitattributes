@@ -1,0 +1,2 @@
+# Matplotlib emits harmless trailing separators inside SVG path coordinates.
+paper/figures/*.svg linguist-generated=true whitespace=-blank-at-eol

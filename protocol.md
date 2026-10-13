@@ -22,3 +22,16 @@ The identity S1_i = R_i + d_i implies diff(S1) = RR + diff(d). RMSSD discrepanci
 
 ## Publication boundary
 Complete the computational study and manuscript draft with real results, including negative results. A submission-quality claim still requires independent ECG/S1/S2 annotation, stronger segmentation baselines, external long-record replication (e.g. EPHNOGRAM), and an updated structured literature review. No guarantee of novelty, publication, clinical utility or causal mechanism.
+
+## Post-hoc conference-paper extension on 13 October 2026
+
+After the primary results were available, `extended_analysis.py` added two simple
+gates (higher periodicity and lower interval CV), six leave-one-feature-out ridge
+gates, and full-model training-quantile targets of 25% and 75%. Every variant
+retains the original participant split and derives its threshold from training
+participants only. These analyses are exploratory and are not relabeled as
+prespecified. The script first verifies numerical reproduction of the original
+full-model scores and exactly identical accepted records. Saved results include
+record-level predictions and participant retention. All reported intervals are
+conditional on the fitted predictions, and comparisons with different retained
+participant sets are descriptive.

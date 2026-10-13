@@ -1,0 +1,1299 @@
+{
+  "10.1007/s10877-019-00382-0": {
+    "DOI": "10.1007/s10877-019-00382-0",
+    "title": [
+      "Comparison of multiple cardiac signal acquisition technologies for heart rate variability analysis"
+    ],
+    "author": [
+      {
+        "given": "P.",
+        "family": "Charlier",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Cabon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "C.",
+        "family": "Herman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "F.",
+        "family": "Benouna",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R.",
+        "family": "Logier",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "V.",
+        "family": "Houfflin-Debarge",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "M.",
+        "family": "Jeanne",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3727-9434",
+        "authenticated-orcid": false,
+        "given": "J.",
+        "family": "De Jonckheere",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Clinical Monitoring and Computing"
+    ],
+    "volume": "34",
+    "issue": "4",
+    "page": "743-752",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          28
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          8
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          8,
+          28
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1007/s10877-019-00382-0"
+  },
+  "10.1080/03091902.2016.1213902": {
+    "DOI": "10.1080/03091902.2016.1213902",
+    "title": [
+      "Automated signal quality assessment of mobile phone-recorded heart sound signals"
+    ],
+    "author": [
+      {
+        "given": "David B.",
+        "family": "Springer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Thomas",
+        "family": "Brennan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ntobeko",
+        "family": "Ntusi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hassan Y.",
+        "family": "Abdelrahman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Liesl J.",
+        "family": "Z\u00fchlke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bongani M.",
+        "family": "Mayosi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lionel",
+        "family": "Tarassenko",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gari D.",
+        "family": "Clifford",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of Medical Engineering &amp; Technology"
+    ],
+    "volume": "40",
+    "issue": "7-8",
+    "page": "342-355",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          23
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          11,
+          16
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          9,
+          23
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1080/03091902.2016.1213902"
+  },
+  "10.3390/s21217246": {
+    "DOI": "10.3390/s21217246",
+    "title": [
+      "Automated Assessment of the Quality of Phonocardographic Recordings through Signal-to-Noise Ratio for Home Monitoring Applications"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9265-6538",
+        "authenticated-orcid": false,
+        "given": "Noemi",
+        "family": "Giordano",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Electronics and Telecommunications and PoliToBIOMedLab, Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Torino, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0620-594X",
+        "authenticated-orcid": false,
+        "given": "Samanta",
+        "family": "Rosati",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electronics and Telecommunications and PoliToBIOMedLab, Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Torino, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5396-5103",
+        "authenticated-orcid": false,
+        "given": "Marco",
+        "family": "Knaflitz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electronics and Telecommunications and PoliToBIOMedLab, Politecnico di Torino, Corso Duca degli Abruzzi 24, 10129 Torino, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Sensors"
+    ],
+    "volume": "21",
+    "issue": "21",
+    "page": "7246",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          30
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          10,
+          30
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.3390/s21217246"
+  },
+  "10.3390/s24051525": {
+    "DOI": "10.3390/s24051525",
+    "title": [
+      "Accurate Localization of First and Second Heart Sounds via Template Matching in Forcecardiography Signals"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3422-8727",
+        "authenticated-orcid": false,
+        "given": "Jessica",
+        "family": "Centracchio",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering and Information Technologies, University of Naples Federico II, Via Claudio, 21, I-80125 Naples, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0000-9314-5126",
+        "authenticated-orcid": false,
+        "given": "Salvatore",
+        "family": "Parlato",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering and Information Technologies, University of Naples Federico II, Via Claudio, 21, I-80125 Naples, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0716-8431",
+        "authenticated-orcid": false,
+        "given": "Daniele",
+        "family": "Esposito",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering and Information Technologies, University of Naples Federico II, Via Claudio, 21, I-80125 Naples, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4829-3941",
+        "authenticated-orcid": false,
+        "given": "Emilio",
+        "family": "Andreozzi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Electrical Engineering and Information Technologies, University of Naples Federico II, Via Claudio, 21, I-80125 Naples, Italy"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Sensors"
+    ],
+    "volume": "24",
+    "issue": "5",
+    "page": "1525",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          27
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          27
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.3390/s24051525"
+  },
+  "10.1109/JSEN.2026.3726629": {
+    "DOI": "10.1109/jsen.2026.3726629",
+    "title": [
+      "Heart Rate Estimation by Different Sensing Modalities under Resting and Post-Exercise-Recovery Conditions"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4851-4401",
+        "authenticated-orcid": false,
+        "given": "Jelena",
+        "family": "Krsic",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Belgrade, 12-14 Mike Petrovica Alasa",
+            "place": [
+              "Belgrade, Serbia"
+            ],
+            "department": [
+              "National Institute of the Republic of Serbia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mirjana G.",
+        "family": "Stojanovic",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Belgrade, 12-14 Mike Petrovica Alasa",
+            "place": [
+              "Belgrade, Serbia"
+            ],
+            "department": [
+              "National Institute of the Republic of Serbia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8476-4141",
+        "authenticated-orcid": false,
+        "given": "Marjan",
+        "family": "Miletic",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Belgrade, 12-14 Mike Petrovica Alasa",
+            "place": [
+              "Belgrade, Serbia"
+            ],
+            "department": [
+              "National Institute of the Republic of Serbia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1695-6341",
+        "authenticated-orcid": false,
+        "given": "Vladimir",
+        "family": "Atanasoski",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Belgrade, 12-14 Mike Petrovica Alasa",
+            "place": [
+              "Belgrade, Serbia"
+            ],
+            "department": [
+              "National Institute of the Republic of Serbia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7218-6575",
+        "authenticated-orcid": false,
+        "given": "Marija D.",
+        "family": "Ivanovic",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Belgrade, 12-14 Mike Petrovica Alasa",
+            "place": [
+              "Belgrade, Serbia"
+            ],
+            "department": [
+              "National Institute of the Republic of Serbia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Aleksandra",
+        "family": "Maluckov",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Belgrade, 12-14 Mike Petrovica Alasa",
+            "place": [
+              "Belgrade, Serbia"
+            ],
+            "department": [
+              "National Institute of the Republic of Serbia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1002-241X",
+        "authenticated-orcid": false,
+        "given": "Jovana",
+        "family": "Petrovic",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Belgrade, 12-14 Mike Petrovica Alasa",
+            "place": [
+              "Belgrade, Serbia"
+            ],
+            "department": [
+              "National Institute of the Republic of Serbia"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "IEEE Sensors Journal"
+    ],
+    "volume": null,
+    "issue": null,
+    "page": "1-1",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1109/jsen.2026.3726629"
+  },
+  "10.1038/s41597-025-05781-4": {
+    "DOI": "10.1038/s41597-025-05781-4",
+    "title": [
+      "Synchronous post-exercise electrocardiogram, phonocardiogram, photoplethysmograms and seismocardiogram"
+    ],
+    "author": [
+      {
+        "given": "Aleksandar",
+        "family": "Lazovi\u0107",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vladimir",
+        "family": "Atanasoski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Predrag",
+        "family": "Tadi\u0107",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Natalija",
+        "family": "Djordjevi\u0107",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ma\u0161a",
+        "family": "Tiosavljevi\u0107",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marija D.",
+        "family": "Ivanovi\u0107",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ljup\u010do",
+        "family": "Had\u017eievski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arsen",
+        "family": "Risti\u0107",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vladan",
+        "family": "Vuk\u010devi\u0107",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jovana",
+        "family": "Petrovi\u0107",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Scientific Data"
+    ],
+    "volume": "12",
+    "issue": "1",
+    "page": null,
+    "article-number": "1452",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          20
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1038/s41597-025-05781-4"
+  },
+  "10.1371/journal.pone.0138921": {
+    "DOI": "10.1371/journal.pone.0138921",
+    "title": [
+      "Validity of (Ultra-)Short Recordings for Heart Rate Variability Measurements"
+    ],
+    "author": [
+      {
+        "given": "M. Loretto",
+        "family": "Munoz",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Arie",
+        "family": "van Roon",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Harri\u00ebtte",
+        "family": "Riese",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chris",
+        "family": "Thio",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emma",
+        "family": "Oostenbroek",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Iris",
+        "family": "Westrik",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eco J. C.",
+        "family": "de Geus",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ron",
+        "family": "Gansevoort",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Joop",
+        "family": "Lefrandt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ilja M.",
+        "family": "Nolte",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Harold",
+        "family": "Snieder",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "PLOS ONE"
+    ],
+    "volume": "10",
+    "issue": "9",
+    "page": "e0138921",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          28
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2015,
+          9,
+          28
+        ]
+      ]
+    },
+    "URL": "https://doi.org/10.1371/journal.pone.0138921"
+  },
+  "10.1093/oxfordjournals.eurheartj.a014868": {
+    "DOI": "10.1093/oxfordjournals.eurheartj.a014868",
+    "title": [
+      "Heart rate variability: Standards of measurement, physiological interpretation, and clinical use"
+    ],
+    "author": [
+      {
+        "given": "M.",
+        "family": "Malik",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "J. T.",
+        "family": "Bigger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A. J.",
+        "family": "Camm",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "R. E.",
+        "family": "Kleiger",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A.",
+        "family": "Malliani",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A. J.",
+        "family": "Moss",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "P. J.",
+        "family": "Schwartz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "European Heart Journal"
+    ],
+    "volume": "17",
+    "issue": "3",
+    "page": "354-381",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          1996,
+          3,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1996,
+          3,
+          1
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1093/oxfordjournals.eurheartj.a014868"
+  },
+  "10.1109/TBME.2015.2475278": {
+    "DOI": "10.1109/tbme.2015.2475278",
+    "title": [
+      "Logistic Regression-HSMM-based Heart Sound Segmentation"
+    ],
+    "author": [
+      {
+        "given": "David",
+        "family": "Springer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lionel",
+        "family": "Tarassenko",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gari",
+        "family": "Clifford",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "IEEE Transactions on Biomedical Engineering"
+    ],
+    "volume": null,
+    "issue": null,
+    "page": "1-1",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1109/tbme.2015.2475278"
+  },
+  "10.1109/ACCESS.2019.2911555": {
+    "DOI": "10.1109/access.2019.2911555",
+    "title": [
+      "Variability of Cardiac Electromechanical Delay With Application to the Noninvasive Detection of Coronary Artery Disease"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9717-7755",
+        "authenticated-orcid": false,
+        "given": "Yang",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Xinpei",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Changchun",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Liping",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Chang",
+        "family": "Yan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Lianke",
+        "family": "Yao",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4684-4909",
+        "authenticated-orcid": false,
+        "given": "Peng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "IEEE Access"
+    ],
+    "volume": "7",
+    "issue": null,
+    "page": "53115-53124",
+    "article-number": null,
+    "published": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "published-online": null,
+    "URL": "https://doi.org/10.1109/access.2019.2911555"
+  }
+}

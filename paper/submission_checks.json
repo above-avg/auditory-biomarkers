@@ -1,0 +1,32 @@
+{
+  "pages": 10,
+  "tables": 7,
+  "figures": 5,
+  "references": 12,
+  "structure_checks_passed": true,
+  "template_geometry_and_styles_preserved": true,
+  "macro_free": true,
+  "scientific_tests_passed": 10,
+  "source_checksums_verified": 2704,
+  "participant_folds_audited": 32,
+  "primary_predictions_reproduced": true,
+  "visual_review": "All ten pages inspected; updated pages re-inspected and unchanged pages pixel-compared.",
+  "renderer": "Microsoft Word PDF export; Poppler 160 dpi PNGs",
+  "similarity_check_run": false,
+  "ai_detection_check_run": false,
+  "outstanding": [
+    "Corresponding author and email",
+    "Investigator review and approval",
+    "Funding, conflicts, contributions and institutional ethics determination"
+  ],
+  "python": "3.12.14",
+  "document_packages": {
+    "python-docx": "1.2.0",
+    "lxml": "6.1.1",
+    "pypdf": "6.10.0"
+  },
+  "sha256": {
+    "pdf": "34c79a18999c83b84530258c4e411b505cc910661930586f1521f6ae380b701f",
+    "docx": "1c2177aa793e62aa6440ce40e232f5a35de2ec1707614a2e410bf6307d9f39de"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "docProps/": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "docProps/app.xml": {
+    "bytes": 1038,
+    "sha256": "44bf0baa4c3431d7bbe8f89b1df3eab76f97f81dcb2e3de9618d87f6c1fa34dd"
+  },
+  "docProps/core.xml": {
+    "bytes": 727,
+    "sha256": "55088e3fc4d6d4f6ead7f142afd38c30e3ac696d3edf4573b07534a3e3e3214a"
+  },
+  "word/": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "word/charts/": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "word/charts/chart1.xml": {
+    "bytes": 8787,
+    "sha256": "4aa7af9e1369b41e16869829e002f88baad847cc9ac4e61eb59ddb4a04f9fbf8"
+  },
+  "word/charts/_rels/": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "word/charts/_rels/chart1.xml.rels": {
+    "bytes": 367,
+    "sha256": "926f8c617d9f72d03ed01efc01b1f9454944c159a11cb68b1f2264dd67ce55b5"
+  },
+  "word/document.xml": {
+    "bytes": 37463,
+    "sha256": "793af352b11f8f18974aee1c6dd8028c2ea2fef6d4fc56b22163a94e0f227b33"
+  },
+  "word/endnotes.xml": {
+    "bytes": 1428,
+    "sha256": "c570c33ce86b9dbe136545508c68c4abeb46ae8fc14dff4bd104d1992c12991d"
+  },
+  "word/fontTable.xml": {
+    "bytes": 2531,
+    "sha256": "fc6d00c8413e29e3b0139377ac60f3d0469ae94283e5151f9ab085b75b656ad5"
+  },
+  "word/footnotes.xml": {
+    "bytes": 1550,
+    "sha256": "fa3d1153ac40ea121e8db92f7590745db4ccea5828e901b6cd80c38e75162f90"
+  },
+  "word/header1.xml": {
+    "bytes": 1644,
+    "sha256": "e6487734e47420acce948c5a0cabb51687e3674255ab4c892f91c0d336e91194"
+  },
+  "word/header2.xml": {
+    "bytes": 1672,
+    "sha256": "60fe3018c1efa1ae2da940bb327f19c48bf3554facb33c38dd5eed2738d172bb"
+  },
+  "word/numbering.xml": {
+    "bytes": 15370,
+    "sha256": "5662c6530e6c56b4e94bdde7065a67cb47b09e67def423b3f709d175a8255682"
+  },
+  "word/settings.xml": {
+    "bytes": 3112,
+    "sha256": "8d409ed0030a9b839d71e680f32b20c3d8eaf826618bef141600d5270ae5fb87"
+  },
+  "word/styles.xml": {
+    "bytes": 18356,
+    "sha256": "efa1e60194541a6610fb58aa6c4a25db0baa12ee2abcb3f9ce7e838ef9901002"
+  },
+  "word/theme/": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "word/theme/theme1.xml": {
+    "bytes": 6997,
+    "sha256": "69c61d2116fa859f1f0f0bf63bea5ee49b9ff577359e8d9eb4bfe54e446c41bf"
+  },
+  "word/webSettings.xml": {
+    "bytes": 377,
+    "sha256": "367c510dd3af8103561faaedf0262f10cba52b1f810c3bb56472437f26045609"
+  },
+  "word/_rels/": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "word/_rels/document.xml.rels": {
+    "bytes": 1814,
+    "sha256": "38a5bfe21d17771b13e04e6d8dbaca0e5982c40007de4d5ef929e1dd61d7b604"
+  },
+  "[Content_Types].xml": {
+    "bytes": 2814,
+    "sha256": "a329c5f74bf9be216c2b8291bcab9b29a5686fd4d6fd1f517b49ad26606b1b81"
+  },
+  "_rels/": {
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "_rels/.rels": {
+    "bytes": 589,
+    "sha256": "a76c44cf6b278166bfc93edce0a98846be30e584462153ba97fa683469ff5916"
+  }
+}
