@@ -1,0 +1,447 @@
+Extracted 25/338
+Extracted 50/338
+Extracted 75/338
+Extracted 100/338
+Extracted 125/338
+Extracted 150/338
+Extracted 175/338
+Extracted 200/338
+Extracted 225/338
+Extracted 250/338
+Extracted 275/338
+Extracted 300/338
+Extracted 325/338
+{
+  "total_records": 338,
+  "total_subjects": 32,
+  "eligible_records": 316,
+  "eligible_subjects": 32,
+  "failed_records": 0,
+  "accepted_records": 159,
+  "coverage": 0.5031645569620253,
+  "subjects_without_accepted": [
+    1,
+    10,
+    21
+  ],
+  "methods": {
+    "audio_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.28344940981668765,
+      "mae_ci": [
+        0.11746782234666722,
+        0.49302981970937637
+      ],
+      "record_bias": 0.08740398599606912,
+      "descriptive_loa": [
+        -2.065236020776653,
+        2.2400439927687907
+      ]
+    },
+    "audio_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 15.32960037842344,
+      "mae_ci": [
+        11.724785714146615,
+        19.519469030141707
+      ],
+      "record_bias": 13.584421995541806,
+      "descriptive_loa": [
+        -27.104747327237863,
+        54.27359131832148
+      ]
+    },
+    "audio_sd": {
+      "records": 316,
+      "subject_balanced_mae": 7.079099478721656,
+      "mae_ci": [
+        4.798949848523538,
+        9.94076461548562
+      ],
+      "record_bias": 5.107260565750502,
+      "descriptive_loa": [
+        -19.374793179027126,
+        29.589314310528128
+      ]
+    },
+    "peak_baseline_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.7342272001598786,
+      "mae_ci": [
+        0.37516091186000783,
+        1.1508124476163244
+      ],
+      "record_bias": 0.6652951844981607,
+      "descriptive_loa": [
+        -3.554389992431273,
+        4.884980361427594
+      ]
+    },
+    "peak_baseline_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 43.891997355486495,
+      "mae_ci": [
+        31.959779719910163,
+        56.507097252353134
+      ],
+      "record_bias": 44.83702109475322,
+      "descriptive_loa": [
+        -87.43686664665336,
+        177.1109088361598
+      ]
+    },
+    "peak_baseline_sd": {
+      "records": 316,
+      "subject_balanced_mae": 23.61399185467281,
+      "mae_ci": [
+        16.804772883545343,
+        31.25375299667302
+      ],
+      "record_bias": 24.291361766243686,
+      "descriptive_loa": [
+        -51.89219604644987,
+        100.47491957893723
+      ]
+    },
+    "guided_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.047344658100071144,
+      "mae_ci": [
+        0.04094868067002297,
+        0.05461522268291969
+      ],
+      "record_bias": 0.004409816639570221,
+      "descriptive_loa": [
+        -0.14117703516347413,
+        0.14999666844261456
+      ]
+    },
+    "guided_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 11.803406836062535,
+      "mae_ci": [
+        9.872227398301625,
+        14.128152938790576
+      ],
+      "record_bias": 11.594736649494362,
+      "descriptive_loa": [
+        -10.849211940392074,
+        34.0386852393808
+      ]
+    },
+    "guided_sd": {
+      "records": 316,
+      "subject_balanced_mae": 4.911564426685789,
+      "mae_ci": [
+        3.9631872328129,
+        6.025057023876003
+      ],
+      "record_bias": 4.801707818250472,
+      "descriptive_loa": [
+        -6.101453954056499,
+        15.704869590557443
+      ]
+    },
+    "carotid_hr": {
+      "records": 313,
+      "subject_balanced_mae": 4.489101345407304,
+      "mae_ci": [
+        3.0191671665786144,
+        6.1321627148586675
+      ],
+      "record_bias": -3.800424870293986,
+      "descriptive_loa": [
+        -26.816133072287023,
+        19.215283331699055
+      ]
+    },
+    "carotid_rmssd": {
+      "records": 313,
+      "subject_balanced_mae": 129.68936107966599,
+      "mae_ci": [
+        108.33638100240758,
+        153.86306769702293
+      ],
+      "record_bias": 128.53299106320412,
+      "descriptive_loa": [
+        -96.29494447855686,
+        353.36092660496513
+      ]
+    },
+    "carotid_sd": {
+      "records": 313,
+      "subject_balanced_mae": 78.94297136972442,
+      "mae_ci": [
+        64.09472779144457,
+        95.81530046726051
+      ],
+      "record_bias": 76.17709024801249,
+      "descriptive_loa": [
+        -93.18227215011973,
+        245.5364526461447
+      ]
+    },
+    "brachial_hr": {
+      "records": 316,
+      "subject_balanced_mae": 3.3533692448105183,
+      "mae_ci": [
+        2.0004981213189574,
+        4.752320761936853
+      ],
+      "record_bias": -1.2561209646941498,
+      "descriptive_loa": [
+        -21.757755997486637,
+        19.245514068098334
+      ]
+    },
+    "brachial_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 86.25705715396613,
+      "mae_ci": [
+        66.87719695887965,
+        107.24929072849115
+      ],
+      "record_bias": 79.96379380469446,
+      "descriptive_loa": [
+        -160.90002321087024,
+        320.82761082025917
+      ]
+    },
+    "brachial_sd": {
+      "records": 316,
+      "subject_balanced_mae": 55.49387418139447,
+      "mae_ci": [
+        40.75633501570876,
+        71.46526247881498
+      ],
+      "record_bias": 49.84263920891876,
+      "descriptive_loa": [
+        -137.53594170283688,
+        237.22122012067442
+      ]
+    },
+    "acc_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.31824006708589686,
+      "mae_ci": [
+        0.15938823429421464,
+        0.5326191278804366
+      ],
+      "record_bias": 0.10974637168890666,
+      "descriptive_loa": [
+        -1.8239977490722474,
+        2.0434904924500605
+      ]
+    },
+    "acc_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 29.66001482062178,
+      "mae_ci": [
+        24.622768788127374,
+        35.148076911593144
+      ],
+      "record_bias": 28.051953244718984,
+      "descriptive_loa": [
+        -23.3252393970113,
+        79.42914588644926
+      ]
+    },
+    "acc_sd": {
+      "records": 316,
+      "subject_balanced_mae": 14.605454655986774,
+      "mae_ci": [
+        11.550289014665466,
+        18.221925821432823
+      ],
+      "record_bias": 12.531738104204225,
+      "descriptive_loa": [
+        -18.170644057600988,
+        43.23412026600944
+      ]
+    },
+    "audio_band20_200_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.3075702433404473,
+      "mae_ci": [
+        0.12310823106637749,
+        0.5629355346849038
+      ],
+      "record_bias": 0.10075841336412247,
+      "descriptive_loa": [
+        -2.37277622855725,
+        2.574293055285495
+      ]
+    },
+    "audio_band20_200_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 16.51514486282646,
+      "mae_ci": [
+        12.510254095385934,
+        20.97829866600084
+      ],
+      "record_bias": 14.039381367424074,
+      "descriptive_loa": [
+        -29.490204706535135,
+        57.56896744138328
+      ]
+    },
+    "audio_band20_200_sd": {
+      "records": 316,
+      "subject_balanced_mae": 7.501014336600518,
+      "mae_ci": [
+        5.083366296187914,
+        10.532832693064808
+      ],
+      "record_bias": 5.319785541664588,
+      "descriptive_loa": [
+        -20.025228534935756,
+        30.664799618264936
+      ]
+    },
+    "audio_band40_120_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.44591497690843523,
+      "mae_ci": [
+        0.16539503941714326,
+        0.8175368358013065
+      ],
+      "record_bias": -0.04733999634674405,
+      "descriptive_loa": [
+        -5.808478381424362,
+        5.713798388730875
+      ]
+    },
+    "audio_band40_120_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 17.026986515039525,
+      "mae_ci": [
+        13.042626674829803,
+        21.40705928569858
+      ],
+      "record_bias": 14.70717510951317,
+      "descriptive_loa": [
+        -26.14143554016697,
+        55.55578575919331
+      ]
+    },
+    "audio_band40_120_sd": {
+      "records": 316,
+      "subject_balanced_mae": 7.832660360863464,
+      "mae_ci": [
+        5.341980060265812,
+        11.143164754913407
+      ],
+      "record_bias": 5.509175222809074,
+      "descriptive_loa": [
+        -19.24957825424279,
+        30.267928699860935
+      ]
+    },
+    "guided_narrow_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.046149625046820325,
+      "mae_ci": [
+        0.040019260185249206,
+        0.05300927524141022
+      ],
+      "record_bias": 0.004299193108829216,
+      "descriptive_loa": [
+        -0.1393035696112061,
+        0.1479019558288645
+      ]
+    },
+    "guided_narrow_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 11.078360636380353,
+      "mae_ci": [
+        9.255133839069655,
+        13.352341362743015
+      ],
+      "record_bias": 10.917279590367752,
+      "descriptive_loa": [
+        -10.134385850117553,
+        31.968945030853057
+      ]
+    },
+    "guided_narrow_sd": {
+      "records": 316,
+      "subject_balanced_mae": 4.609429597111197,
+      "mae_ci": [
+        3.7021402508864254,
+        5.6900761918776865
+      ],
+      "record_bias": 4.507709062921948,
+      "descriptive_loa": [
+        -5.771498369155432,
+        14.786916494999328
+      ]
+    },
+    "guided_wide_hr": {
+      "records": 316,
+      "subject_balanced_mae": 0.04993809219886235,
+      "mae_ci": [
+        0.041810875041192914,
+        0.058893160943440485
+      ],
+      "record_bias": 0.0068312410485369315,
+      "descriptive_loa": [
+        -0.1606815807853641,
+        0.17434406288243798
+      ]
+    },
+    "guided_wide_rmssd": {
+      "records": 316,
+      "subject_balanced_mae": 12.652161691577504,
+      "mae_ci": [
+        10.337220593934166,
+        15.581881289391125
+      ],
+      "record_bias": 12.350355069285712,
+      "descriptive_loa": [
+        -13.747759779883516,
+        38.44846991845494
+      ]
+    },
+    "guided_wide_sd": {
+      "records": 316,
+      "subject_balanced_mae": 5.307262788039899,
+      "mae_ci": [
+        4.1517036002869965,
+        6.677591263118202
+      ],
+      "record_bias": 5.189745272893208,
+      "descriptive_loa": [
+        -7.244317758047758,
+        17.623808303834174
+      ]
+    }
+  },
+  "gate": {
+    "accepted_subject_balanced_mae": 5.996231440381159,
+    "mae_ci": [
+      4.660879609700358,
+      7.480028927366543
+    ],
+    "paired_change_ms": -9.360299406056843,
+    "paired_change_ci": [
+      -14.324400933110047,
+      -5.324026246661907
+    ],
+    "paired_subjects": 29,
+    "interpretation": "Selection effect on retained recordings; not correction of rejected recordings",
+    "matched_random_mae": 15.356232591617237,
+    "matched_random_interval": [
+      11.64429972557201,
+      19.614192933820775
+    ],
+    "randomization_fraction_at_or_better": 0.000999000999000999
+  },
+  "after_minus_before_error": {
+    "subjects": 30,
+    "mean_ms": 1.082843697999335,
+    "ci": [
+      -5.5447995221834505,
+      7.276646071688569
+    ]
+  }
+}

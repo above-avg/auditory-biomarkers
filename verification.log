@@ -1,0 +1,11 @@
+test_audio_interface_has_no_reference (test_analysis.TestScientificInvariants) ... ok
+test_constant_delay_preserves_rmssd (test_analysis.TestScientificInvariants) ... ok
+test_constant_intervals (test_analysis.TestScientificInvariants) ... ok
+test_electromechanical_identity (test_analysis.TestScientificInvariants) ... ok
+test_match_no_duplicate_credit (test_analysis.TestScientificInvariants) ... ok
+test_synthetic_audio_period (test_analysis.TestScientificInvariants) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.095s
+
+OK

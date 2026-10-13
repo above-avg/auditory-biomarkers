@@ -1,0 +1,21 @@
+{
+  "checksum_files": 2704,
+  "records": 338,
+  "subjects": 32,
+  "folds": 32,
+  "extraction_status": {
+    "ok": 338
+  },
+  "duration_s": [
+    28.501,
+    29.997
+  ],
+  "before_after_counts": {
+    "A": 242,
+    "B": 96
+  },
+  "identity_max_error_s": 0.0,
+  "eligible_metadata_hr_abs_difference_median": 0.34386410050127125,
+  "automated_checks_passed": true,
+  "expert_annotations": false
+}
