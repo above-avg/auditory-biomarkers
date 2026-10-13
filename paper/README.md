@@ -57,7 +57,7 @@ when reproducing a historical paper.
 Names and affiliations were supplied by the user. The corresponding author and
 email have not been provided. Funding, conflicts, contributions and institutional
 ethics determinations require the actual investigators' confirmation; none are
-invented. The paper discloses generative-AI assistance.
+invented.
 
 This is an exploratory computational manuscript. It has no expert ECG/S1/S2
 adjudication, recognized segmentation benchmark or external validation. It does

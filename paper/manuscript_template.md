@@ -143,7 +143,7 @@ In this 32-participant exploratory benchmark, acoustic mean-heart-rate agreement
 
 <!-- page -->
 
-**Data and research transparency.** SensSmartTech [6] is available through PhysioNet [12] under CC BY 4.0. Original ethics approval is documented by the dataset authors; this secondary analysis asserts no local exemption. Code and results: https://github.com/above-avg/auditory-biomarkers. Primary revision: 7f8686f; post-hoc additions reproduce its predictions. The protocol was not publicly preregistered. Generative AI assisted coding, analysis, drafting and figures. The named authors remain responsible for verification and approval.
+**Data and research transparency.** SensSmartTech [6] is available through PhysioNet [12] under CC BY 4.0. Original ethics approval is documented by the dataset authors; this secondary analysis asserts no local exemption. Code and results: https://github.com/above-avg/auditory-biomarkers. Primary revision: 7f8686f; post-hoc additions reproduce its predictions. The protocol was not publicly preregistered. The named authors remain responsible for verification and approval.
 
 ## References
 

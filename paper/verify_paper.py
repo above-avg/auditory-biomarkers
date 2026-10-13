@@ -20,7 +20,7 @@ assert len(re.findall(r'^\d+\. ',text,re.M))==12
 assert all(name in text for name in ['Pallab Sarangi','Shreyas Baloni','Pooja R Rao'])
 assert not any(token in text for token in ['{{','@authors','@rmssd','&amp;','Contribution Title','First Author','Princeton'])
 assert '10.13026/tjtq-5911' in text
-assert 'Generative AI assisted' in text
+assert 'Generative AI assisted' not in text
 with ZipFile(ROOT/'template/springer_reference.docx') as ref,ZipFile(stem.with_suffix('.docx')) as final:
     ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
     a=etree.fromstring(ref.read('word/document.xml')).find('.//w:sectPr',ns)
